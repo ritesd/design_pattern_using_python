@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "markdown-it-meta": "^0.0.1",
+    "markdown-it-task-lists": "^2.1.1",
+    "vuepress": "^1.4.0",
+    "vuepress-theme-default-prefers-color-scheme": "^1.1.0"
+  },
+  "resolutions": {
+    "watchpack": "1.6.1"
+  },
+  "devDependencies": {}
+}
